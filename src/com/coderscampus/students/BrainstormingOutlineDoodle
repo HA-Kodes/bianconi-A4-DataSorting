@@ -1,0 +1,9 @@
+Read student-master-list.csv
+Extract the values to create student objects
+Insert each student into students array
+Filter / Sort the students and create different student arrays
+    + an array for COMPSCI Students
+    + an array for STAT Students
+    + an array for APMTH Students
+
+
